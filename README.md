@@ -8,7 +8,7 @@
 - 😍 Besides coding, I love sports 💪 and gaming 🎮
 
 
-<p>![Logo Language](C:\Users\nghuy\Downloads\header_1.png)</p>
+![Logo Language](C:\Users\nghuy\Downloads\header_1.png)
 
 
 <h3 align="left">Languages and Tools:</h3>
