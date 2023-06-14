@@ -6,26 +6,7 @@
 - 🤝 I’m trying to be good at coding
 - 🌱 I’m currently learning React.js
 - 😍 Besides coding, I love sports 💪 and gaming 🎮
-<html>
-<button>
-    Huy Nguyeexn
-</button>
 
-<style>
-button{
-   background-color: #f23d97;
-   color: #fff;
-   border:none;
-   border-radius: 4px;
-   box-shadow: 0 5px 0 #8C2E6E;
-   transition: .5s;
-}
-button:active{
-    box-shadow: none;
-    transform: translateY(5px);
-}
-</style>
-</html>
     
 ![Logo Language](header_1.png)
 
