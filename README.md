@@ -8,7 +8,7 @@
 - 😍 Besides coding, I love sports 💪 and gaming 🎮
 
     
-![Logo Language](header_1.png)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
