@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Huy Nguyen</h1>
-<h3 align="center">A frontend developer from Viet Nam</h3>
 
 - 🔭 I’m currently studying at [Vaasa University of Applied Sciences](https://www.vamk.fi/)
 - 🤝 I’m trying to be good at coding
-- 🌱 I’m currently learning React.js
-- 😍 Besides coding, I love sports 💪 and gaming 🎮
+- 🌱 I’m currently learning React.js and Native
 
     
 
