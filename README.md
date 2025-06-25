@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Huy Nguyen</h1>
 
-- 🔭 I’m currently studying at [Vaasa University of Applied Sciences](https://www.vamk.fi/)
+- 🔭 Graduated at [Vaasa University of Applied Sciences](https://www.vamk.fi/)
 - 🤝 I’m trying to be good at coding
 - 🌱 I’m currently learning React.js and Native
 
