@@ -16,5 +16,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/huynguyen1604" target="blank" rel="norefferer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huy nguyen" height="30" width="40" /></a>
 <h4 align = "lef">My Portfolio</h4>
-<a href ="https://portfolio-pi-kohl-17.vercel.app/" target="blank" rel="norefferer"><img align="center" src="https://images.ctfassets.net/frd5oskxgr96/16e2P31DJ0brzyiwNvC564/1fa51988d47f3572d9efd14f15dc2246/Vercel_logo_PNG_clr.svg" alt= "vercel" height="30" width="40"/> </a>
+<a href ="https://portfolio-pi-kohl-17.vercel.app/" target="blank" rel="norefferer"><img align="center" src="https://images.ctfassets.net/frd5oskxgr96/16e2P31DJ0brzyiwNvC564/1fa51988d47f3572d9efd14f15dc2246/Vercel_logo_PNG_clr.svg" alt= "vercel" height="50" width="50"/> </a>
 </p>
