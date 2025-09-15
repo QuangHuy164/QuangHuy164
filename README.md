@@ -3,7 +3,7 @@
 
 - 🔭 Graduated at [Vaasa University of Applied Sciences](https://www.vamk.fi/)
 - 🤝 I’m trying to be good at coding
-- 🌱 I’m currently learning React.js and Native
+- 🌱 I’m currently learning React Native
 
     
 
